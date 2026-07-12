@@ -1,0 +1,34 @@
+======================================================================
+                  END-USER LICENSE AGREEMENT (EULA)
+                      SYSTEM TIMER v1.5
+======================================================================
+
+PLEASE READ THIS AGREEMENT CAREFULLY BEFORE INSTALLING THE SOFTWARE.
+
+1. LICENSE GRANT
+This software is provided "as-is" for personal and professional productivity 
+enhancement. You are granted a non-exclusive, non-transferable license to 
+use this core management utility on your computer.
+
+2. SYSTEM CONTROL & SHUTDOWN LOGIC
+By installing this software, you acknowledge and agree that:
+- The system enforces a mandatory hardware shutdown after the pre-configured
+  timer duration expires.
+- The "Forced Shutdown" mode executes a force-close command on all active 
+  applications. Unsaved user work will be lost upon execution.
+- A 30-minute grace window is provided upon boot to modify settings, after 
+  which the core configuration panels are securely locked.
+
+3. LIMITATION OF LIABILITY
+Under no circumstances shall the developer be liable for any data loss, 
+unsaved documentation errors, or hardware disruptions resulting from the 
+automated, enforced system shutdown cycles.
+
+4. UNINSTALLATION
+This application complies with standard Windows management. Uninstallation via 
+the Windows Control Panel will completely sever the background service components 
+and remove all automated boot instructions safely.
+
+----------------------------------------------------------------------
+Copyright (c) 2026 A.L.X. All Rights Reserved.
+======================================================================
